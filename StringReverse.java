@@ -5,9 +5,11 @@ class StringReverse{
 	public static void main(String a[]) throws Exception
 	{
         String st;      //contains user input statement 
-        String reverse = "" //will contain reverse characters of the given string
+        String reverse = "" ; //will contain reverse characters of the given string
        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
        System.out.println("Enter the Statement:"); 
+       System.out.println("Failed solution 8MkqERq12nGm0BVdn9dxAb17");
+
          st=br.readLine();
         System.out.println("The reverse is:");
 
